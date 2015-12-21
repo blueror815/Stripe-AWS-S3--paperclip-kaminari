@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails merchcat-api: default" uuid="9acaade2-7280-4c15-8594-e679a133e944">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails merchcat-api: development" uuid="08b087f9-8038-4110-9651-f9c5be46216a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails merchcat-api: test" uuid="5b2a80bb-190c-4a74-a844-8a0c36c70b7f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails merchcat-api: production" uuid="b1068bcc-0101-43f6-a3f0-a721545d3943">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

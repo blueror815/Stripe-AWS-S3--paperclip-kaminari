@@ -1,0 +1,2 @@
+class ArtistSales < OpenStruct
+end

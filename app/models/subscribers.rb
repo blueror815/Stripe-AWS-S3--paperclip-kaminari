@@ -1,0 +1,2 @@
+class Subscribers < OpenStruct
+end

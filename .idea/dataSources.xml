@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2018749836">
+    <data-source source="LOCAL" name="Rails merchcat-api: default" uuid="9acaade2-7280-4c15-8594-e679a133e944">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV[&quot;db_host&quot;] %&gt;/&lt;%= ENV[&quot;db_name&quot;] %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV[&quot;db_username&quot;] %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfcedfc8dff5dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf88dff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails merchcat-api: development" uuid="08b087f9-8038-4110-9651-f9c5be46216a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV[&quot;db_host&quot;] %&gt;/&lt;%= ENV[&quot;db_name&quot;] %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV[&quot;db_username&quot;] %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfcedfc8dff5dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf88dff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails merchcat-api: test" uuid="5b2a80bb-190c-4a74-a844-8a0c36c70b7f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV[&quot;db_host&quot;] %&gt;/&lt;%= ENV[&quot;db_name&quot;] %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV[&quot;db_username&quot;] %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfcedfc8dff5dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf88dff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails merchcat-api: production" uuid="b1068bcc-0101-43f6-a3f0-a721545d3943">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV[&quot;db_host&quot;] %&gt;:5433/merchcat-api_production</jdbc-url>
+      <user-name>merchcat-api</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfefdff8dfe9dfe2dfe9dfebdffedf87dfebdffadfe3dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
